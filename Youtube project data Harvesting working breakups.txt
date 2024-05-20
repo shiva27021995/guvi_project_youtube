@@ -1,0 +1,5 @@
+Youtube project data Harvesting
+1. create API to fetch data from Youtube
+2. input the same data into Postgres SQL
+3. try to get data from postgres SQL 
+4. Build UI

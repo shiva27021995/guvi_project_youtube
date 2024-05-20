@@ -1,0 +1,12 @@
+channel_ids=["UCvyZS6W6zMJCZBVzF-Ei6sw",
+             "UC_HZY9d5wJ-MEiuq6vhx8hg",
+             "UCJcCB-QYPIBcbKcBQOTwhiA",
+             "UCXzULCWuvbnjm7Q0F6RBKsw"
+	      UC5cY198GU1MQMIPJgMkCJ_Q",
+	      UCY6KjrDBN_tIRFT_QNqQbRQ
+	      UCB_9w_j7jqEOqfhKejM7b-g
+	      UCmrsodcsfoZyFwW_f-ZtvfQ",
+	      UC8_aMwsn53tncdH-5iLu8-w",
+UCk90GmwSCwkZL8HshVI0xog",
+             ]
+
